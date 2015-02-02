@@ -25,16 +25,16 @@ angular
       url: '/dashboard',
       templateUrl:'views/dashboard.html'
     })
-    .state('employee', {
-      url:'/employee',
+    .state('employees', {
+      url:'/employees',
       templateUrl:'views/employee.html'
     })
-    .state('organization', {
-      url:'/organization',
+    .state('organizations', {
+      url:'/organizations',
       templateUrl:'views/organization.html'
     })
-    .state('project', {
-      url:'/project',
+    .state('projects', {
+      url:'/projects',
       templateUrl:'views/project.html'
     })
     .state('prospects', {
