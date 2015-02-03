@@ -7,7 +7,7 @@
  * # ProjectCtrl
  * Controller of the dashboardUiApp
  */
-angular.module('dashboardUiApp')
+angular.module('dashboardApp')
   .controller('ProjectCtrl', function ($scope) {
     $scope.awesomeThings = [
       'HTML5 Boilerplate',

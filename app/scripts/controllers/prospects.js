@@ -7,7 +7,7 @@
  * # ProspectsCtrl
  * Controller of the dashboardUiApp
  */
-angular.module('dashboardUiApp')
+angular.module('dashboardApp')
   .controller('ProspectsCtrl', function ($scope) {
     $scope.awesomeThings = [
       'HTML5 Boilerplate',
