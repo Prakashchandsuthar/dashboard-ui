@@ -3,7 +3,7 @@
 describe('Controller: OrganizationCtrl', function () {
 
   // load the controller's module
-  beforeEach(module('dashboardUiApp'));
+  beforeEach(module('dashboardApp'));
 
   var OrganizationCtrl,
     scope;
